@@ -1,0 +1,2 @@
+This is testing the add and commit command of git
+cool
